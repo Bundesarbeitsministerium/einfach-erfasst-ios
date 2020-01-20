@@ -1,0 +1,16 @@
+body {
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    font-family: BundesSerifWeb;
+    font-weight: bold;
+    font-size: 20;
+    color: #656565;
+}
+p {
+    font-family: BundesSansWeb;
+    font-size: 20;
+    color: #656565;
+}
